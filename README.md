@@ -24,4 +24,18 @@ Each folder corresponds to one module.
 Each script is standalone. Open a terminal and run:
 ```
 python week07/functions.py
-```
+
+
+#reflection
+#1.Seeing this history, it would show me that the person I am hiring works step by step and includes documentation of every step in their process. This would only make me want to higher this person more. 
+
+# ee7248e (HEAD -> main, origin/main, origin/HEAD) add README with module listing and run instructions
+
+#aed977b add module 7 functions: calculate_tax, apply_discount, final_price
+
+#b408b7e add .gitignore for Python and OS files
+b09e2de Initial commit
+
+#2. Git definately changes how i approach changing my working code because I will have to make documentation in every change I make in my working code. Before this module I would just make changes by making comments directly in the code and not worrying about pushing the code to git after. 0
+
+#3. I would add venv/ which is a python virtual environment. This lage folder that is completely specific to me would also be allow others to recreate it completely and it won't belong to the repo anymore. 
